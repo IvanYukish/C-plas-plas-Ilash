@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/second_group.dir/main.cpp.o  -o second_group 

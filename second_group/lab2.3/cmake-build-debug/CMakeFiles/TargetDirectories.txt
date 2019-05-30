@@ -1,0 +1,3 @@
+/home/yukish/CLionProjects/DataStructure/second_group/lab2.3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yukish/CLionProjects/DataStructure/second_group/lab2.3/cmake-build-debug/CMakeFiles/lab2.3.dir
+/home/yukish/CLionProjects/DataStructure/second_group/lab2.3/cmake-build-debug/CMakeFiles/edit_cache.dir

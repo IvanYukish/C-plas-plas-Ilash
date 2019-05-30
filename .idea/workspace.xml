@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="lab2_3" targetName="lab2.3" />
+      <config projectName="lab2_3" targetName="STRData" />
+      <config projectName="lab2_3" targetName="lab2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76714906-901b-4beb-8c9b-0c38d3cf6165" name="Default Changelist" comment="add gitignore">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Structure_of_data.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/yukish.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/.idea/STRData.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/.idea/dictionaries/yukish.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/HardDrive.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/Kombinatoruka.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/Labirint.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/MatrixMultiplications.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/PhoneBook.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/STRData.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/STRData.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/STRData.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/STRData.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/STRData.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/STRData.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/STRData.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/STRData.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/STRData.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/STRData.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/first_group.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/first_group.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/first_group.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/first_group.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/first_group.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/first_group.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/first_group.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/first_group.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/first_group.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/first_group.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/STRData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/STRData.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/first_group" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_group/lab1.1_4/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/.idea/lab2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/lab2.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/lab2.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/lab2.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/lab2.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/lab2.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/lab2.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/lab2.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/second_group.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/second_group.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/second_group.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/second_group.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/second_group.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/second_group.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/second_group.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/second_group.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/second_group.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/second_group.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/dani.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/filemat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/lab2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/lab2.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/second_group" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.1_2/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/.idea/lab2.3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/UsersTable.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/lab2.3.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/lab2.3.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/lab2.3.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/lab2.3.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/lab2.3.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/lab2.3.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/lab2.3.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/lab2.3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/lab2_3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/lab2_3.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_group/lab2.3/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/.idea/lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/MultiplyPolinom.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/STRData.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/STRData.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/STRData.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/STRData.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/STRData.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/STRData.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/STRData.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/STRData.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/STRData.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/STRData.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/lab3.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/lab3.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/lab3.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/lab3.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/lab3.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/lab3.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/lab3.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/third_group.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/third_group.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/third_group.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/third_group.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/third_group.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/third_group.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/third_group.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/third_group.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/third_group.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/third_group.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/STRData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/lab3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/lab3.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/third_group" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/third_group.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_group/task1/main.cpp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/lab2/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/STRData/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/first_group/STRData/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/third_group/task1/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/second_group/lab2/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lab3/main.cpp" />
+        <option value="$PROJECT_DIR$/first_group/ex_1.cpp" />
+        <option value="$PROJECT_DIR$/lab2/main.cpp" />
+        <option value="$PROJECT_DIR$/STRData/main.cpp" />
+        <option value="$PROJECT_DIR$/second_group/lab2.3/UsersTable.h" />
+        <option value="$PROJECT_DIR$/second_group/lab2.3/main.cpp" />
+        <option value="$PROJECT_DIR$/second_group/lab2/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/second_group/lab2.3/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/first_group/STRData/main.cpp" />
+        <option value="$PROJECT_DIR$/first_group/lab1.1_4/PhoneBook.h" />
+        <option value="$PROJECT_DIR$/first_group/lab1.1_4/MatrixMultiplications.h" />
+        <option value="$PROJECT_DIR$/first_group/lab1.1_4/Kombinatoruka.h" />
+        <option value="$PROJECT_DIR$/first_group/lab1.1_4/Labirint.h" />
+        <option value="$PROJECT_DIR$/first_group/lab1.1_4/HardDrive.h" />
+        <option value="$PROJECT_DIR$/third_group/task1/ MultiplyingPolynomials.h" />
+        <option value="$PROJECT_DIR$/third_group/MultiplyPolynom.h" />
+        <option value="$PROJECT_DIR$/third_group/task1/MMM.h" />
+        <option value="$PROJECT_DIR$/third_group/task1/MultiplyPolinom.h" />
+        <option value="$PROJECT_DIR$/third_group/task1/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/third_group/task1/main.cpp" />
+        <option value="$PROJECT_DIR$/second_group/lab2.1_2/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/first_group/lab1.1_4/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/first_group/lab1.1_4/main.cpp" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/second_group/lab2.1_2/main.cpp" />
+        <option value="$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" />
+        <option value="$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="695" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lab2_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/third_group/task1/cmake-build-debug/lab3" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/third_group" />
+      <recent name="$PROJECT_DIR$/second_group" />
+      <recent name="$PROJECT_DIR$/first_group" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.third_group">
+    <configuration name="STRData" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_PATH="$PROJECT_DIR$/third_group/task1/cmake-build-debug/lab3" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_PATH="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/lab2_3" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_PATH="$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/lab2_3" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab2.3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab2_3" RUN_TARGET_NAME="lab2.3" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="third_group" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab2_3" RUN_TARGET_NAME="first_group" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.third_group" />
+      <item itemvalue="Application.lab2" />
+      <item itemvalue="Application.STRData" />
+      <item itemvalue="Application.lab2.3" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76714906-901b-4beb-8c9b-0c38d3cf6165" name="Default Changelist" comment="" />
+      <created>1558092193568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558092193568</updated>
+      <workItem from="1558092197001" duration="59000" />
+      <workItem from="1558215623989" duration="1838000" />
+      <workItem from="1558281067921" duration="22595000" />
+      <workItem from="1559244363088" duration="6050000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30542000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-3" y="0" width="1372" height="738" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27878788" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.4724026" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.9512987" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.49512988" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32954547" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.43739837" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.49025974" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27878788" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.4724026" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.9512987" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.49512988" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32954547" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.51623374" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.49025974" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lab2.3/UsersTable.cpp" />
+    <entry file="file://$PROJECT_DIR$/first_group/ex_1.cpp" />
+    <entry file="file://$PROJECT_DIR$/second_group/lab2.3/.idea/.name">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/Makefile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/lab2_3.cbp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1014" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second_group/lab2.3/cmake-build-debug/lab2_3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STRData/cmake-build-debug/CMakeFiles/clion-log.txt" />
+    <entry file="file://$PROJECT_DIR$/second_group/lab2.3/UsersTable.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second_group/lab2.3/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_group/lab1.1_4/HardDrive.cpp" />
+    <entry file="file://$PROJECT_DIR$/first_group/lab1.1_4/PhoneBook.cpp" />
+    <entry file="file://$PROJECT_DIR$/third_group/task1/cmake-build-debug/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third_group/task3.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third_group/task1/ MultiplyingPolynomials.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#40#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third_group/task1/NUM.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third_group/MultiplyPolynom.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third_group/MultiplyPolynom.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third_group/task1/MMM.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third_group/task1/PolinomMultiply.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second_group/lab2.1_2/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third_group/task1/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third_group/task1/MultiplyPolinom.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_group/lab1.1_4/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="67" column="37" selection-start-line="67" selection-start-column="37" selection-end-line="67" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second_group/lab2.3/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third_group/task1/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_group/lab1.1_4/PhoneBook.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_group/lab1.1_4/HardDrive.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#40#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_group/lab1.1_4/Kombinatoruka.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_group/lab1.1_4/Labirint.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#96#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_group/lab1.1_4/MatrixMultiplications.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_group/lab1.1_4/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="30" column="2" lean-forward="true" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="e#19#68#0" expanded="true" />
+            <element signature="e#98#119#0" expanded="true" />
+            <element signature="e#154#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_group/lab1.1_4/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second_group/lab2.1_2/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second_group/lab2.1_2/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#765#1063#0" />
+            <element signature="e#1065#1446#0" />
+            <element signature="e#1448#1717#0" />
+            <element signature="e#1719#1942#0" />
+            <element signature="e#1944#2260#0" />
+            <element signature="e#2262#3075#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

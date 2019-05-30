@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yukish/CLionProjects/DataStructure/third_group/task1/MultiplyPolinom.h
+
+/home/yukish/CLionProjects/DataStructure/third_group/task1/main.cpp
+iostream
+-
+vector
+/home/yukish/CLionProjects/DataStructure/third_group/task1/vector
+MultiplyPolinom.h
+/home/yukish/CLionProjects/DataStructure/third_group/task1/MultiplyPolinom.h
+
