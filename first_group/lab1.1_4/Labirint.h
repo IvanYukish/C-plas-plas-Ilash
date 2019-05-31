@@ -78,13 +78,4 @@ void show_state(state& s) {
         cout << "(" << it->x << ", " << it->y << ")" << endl;
 }
 
-//int main() {
-//    vector<state> r = solve_wide(start_state());
-//    for (int i = 0; i < r.size(); i++) {
-//        cout << "Variant " << i+1 << ":" << endl;
-//        show_state(r[i]);
-//        cout << endl;
-//    }
-//    return 0;
-//}
 #endif //STRDATA_LABIRINT_H
