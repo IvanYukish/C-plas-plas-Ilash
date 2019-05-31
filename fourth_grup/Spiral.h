@@ -56,7 +56,7 @@ void spiral :: obr ()
 }
 void spiral :: output ()
 {
-	 cout<<"Полученный массив:"<<endl;
+	 cout<<"array :"<<endl;
 	 for (i=0;i<n;i++)
 	 {
 			cout<<"\t\t";

@@ -2,6 +2,7 @@
 #include "Bracket.h"
 #include <stdio_ext.h>
 #include "Spiral.h"
+#include "SumBigNumbers.h"
 
 using namespace std;
 
@@ -48,6 +49,11 @@ int main() {
     mas.output();
 
     timetable_for_multipliers();
+    cout<<endl;
+
+    string str1 = "12";
+    string str2 = "198111";
+    cout << findSum(str1, str2);
 
     return 0;
 }
