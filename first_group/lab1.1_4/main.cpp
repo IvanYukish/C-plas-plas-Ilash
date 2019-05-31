@@ -31,10 +31,8 @@ int main() {
 
     string word = "Ny Йорк Никс USA Вашингтон Уизардз USA";
     cout << endl;
-
     cout << word << endl;
     vector<string> word_list = split(word);
-
     LongestWord(word);
     cout << endl;
 
