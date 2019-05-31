@@ -23,46 +23,46 @@ void LongestWord(std::string &str);
 void matrix_multiplication(double **pMas, const int Rows, const int Cols);
 
 int main() {
-//    cout << "is_palindrom - ";
-//    cout << is_palindrom("addhhh") << endl;
-//    cout << "prime number list - ";
-//    prime_number(32);
-//    cout << endl;
-//
-//    string word = "Ny Йорк Никс USA Вашингтон Уизардз USA";
-//    cout << endl;
-//
-//    cout << word << endl;
-//    vector<string> word_list = split(word);
-//
-//    LongestWord(word);
-//    cout << endl;
+    cout << "is_palindrom - ";
+    cout << is_palindrom("addhhh") << endl;
+    cout << "prime number list - ";
+    prime_number(32);
+    cout << endl;
 
-//    PhoneBook user = PhoneBook();
-//    user.add_user("ivan", "380689033378");
-//    user.add_user("van", "380689033378");
-//    user.add_user("in", "380689033378");
-//    user.add_user("ivsn", "380689033378");
-//    user.add_user("ivansss", "380739033378");
-//    user.life_user();
+    string word = "Ny Йорк Никс USA Вашингтон Уизардз USA";
+    cout << endl;
 
-//    Combinatorics comb = Combinatorics();
-//    cout<<comb.combination(10,5)<<endl;
-//    cout<<comb.permutations(6)<<endl;
-//    cout<<comb.placing(7,5)<<endl;
+    cout << word << endl;
+    vector<string> word_list = split(word);
 
-//    matrix matMul = matrix();
-//    matMul.multiplication();
-//    matMul.free();
+    LongestWord(word);
+    cout << endl;
+
+    PhoneBook user = PhoneBook();
+    user.add_user("ivan", "380689033378");
+    user.add_user("van", "380689033378");
+    user.add_user("in", "380689033378");
+    user.add_user("ivsn", "380689033378");
+    user.add_user("ivansss", "380739033378");
+    user.life_user();
+
+    Combinatorics comb = Combinatorics();
+    cout<<comb.combination(10,5)<<endl;
+    cout<<comb.permutations(6)<<endl;
+    cout<<comb.placing(7,5)<<endl;
+
+    matrix matMul = matrix();
+    matMul.multiplication();
+    matMul.free();
 
 // maze
-//    vector<state> r = solve_wide(start_state());
-//    for (int i = 0; i < r.size(); i++) {
-//        cout << "Variant " << i + 1 << ":" << endl;
-//        show_state(r[i]);
-//        cout << endl;
-//        return 0;
-//    }
+    vector<state> r = solve_wide(start_state());
+    for (int i = 0; i < r.size(); i++) {
+        cout << "Variant " << i + 1 << ":" << endl;
+        show_state(r[i]);
+        cout << endl;
+        return 0;
+    }
 }
 
 
