@@ -2,10 +2,10 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="fourth_grup" targetName="lab2.3" />
-      <config projectName="fourth_grup" targetName="lab2" />
-      <config projectName="fourth_grup" targetName="STRData" />
-      <config projectName="fourth_grup" targetName="fourth_grup" />
+      <config projectName="third_group" targetName="fourth_grup" />
+      <config projectName="third_group" targetName="lab2.3" />
+      <config projectName="third_group" targetName="lab2" />
+      <config projectName="third_group" targetName="STRData" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -15,7 +15,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76714906-901b-4beb-8c9b-0c38d3cf6165" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first_group/lab1.1_4/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/first_group/lab1.1_4/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third_group/task1/MultiplyPolinom.h" beforeDir="false" afterPath="$PROJECT_DIR$/third_group/task1/MultiplyPolinom.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/third_group.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/CMakeFiles/third_group.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/third_group" beforeDir="false" afterPath="$PROJECT_DIR$/third_group/task1/cmake-build-debug/third_group" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third_group/task1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/third_group/task1/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/lab2/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/STRData/cmake-build-debug/" />
@@ -34,7 +41,29 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/third_group/task1/MultiplyPolinom.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/third_group/task1/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,9 +84,7 @@
         <option value="$PROJECT_DIR$/third_group/task1/ MultiplyingPolynomials.h" />
         <option value="$PROJECT_DIR$/third_group/MultiplyPolynom.h" />
         <option value="$PROJECT_DIR$/third_group/task1/MMM.h" />
-        <option value="$PROJECT_DIR$/third_group/task1/MultiplyPolinom.h" />
         <option value="$PROJECT_DIR$/third_group/task1/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/third_group/task1/main.cpp" />
         <option value="$PROJECT_DIR$/second_group/lab2.1_2/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/first_group/lab1.1_4/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/second_group/lab2.1_2/main.cpp" />
@@ -75,6 +102,8 @@
         <option value="$PROJECT_DIR$/fourth_grup/Spiral.h" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/first_group/lab1.1_4/main.cpp" />
+        <option value="$PROJECT_DIR$/third_group/task1/MultiplyPolinom.h" />
+        <option value="$PROJECT_DIR$/third_group/task1/main.cpp" />
       </list>
     </option>
   </component>
@@ -91,23 +120,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="fourth_grup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="third_group" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="third_group" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="third_group" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="third_group" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="third_group" type="462c0819:PsiDirectoryNode" />
+              <item name="task1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/third_group/task1/cmake-build-debug/lab3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -141,7 +181,7 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fourth_grup" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="fourth_grup" RUN_TARGET_NAME="fourth_grup" EXPLICIT_BUILD_TARGET_NAME="all">
+    <configuration name="fourth_grup" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="third_group" RUN_TARGET_NAME="fourth_grup" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -151,12 +191,12 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab2.3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="fourth_grup" RUN_TARGET_NAME="lab2.3" EXPLICIT_BUILD_TARGET_NAME="all">
+    <configuration name="lab2.3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="third_group" RUN_TARGET_NAME="lab2.3" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="third_group" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="fourth_grup" RUN_TARGET_NAME="fourth_grup" EXPLICIT_BUILD_TARGET_NAME="all">
+    <configuration name="third_group" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="third_group" RUN_TARGET_NAME="third_group" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -184,7 +224,10 @@
       <workItem from="1558281067921" duration="22595000" />
       <workItem from="1559244363088" duration="8388000" />
       <workItem from="1559253889759" duration="9374000" />
-      <workItem from="1559266621741" duration="858000" />
+      <workItem from="1559266621741" duration="1000000" />
+      <workItem from="1559282220344" duration="3949000" />
+      <workItem from="1559674680510" duration="236000" />
+      <workItem from="1559767514113" duration="438000" />
     </task>
     <task id="LOCAL-00001" summary="add gitignore">
       <created>1559251157925</created>
@@ -214,22 +257,37 @@
       <option name="project" value="LOCAL" />
       <updated>1559267269968</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="delete comments">
+      <created>1559267518461</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559267518461</updated>
+    </task>
+    <task id="LOCAL-00006" summary="delete comments">
+      <created>1559267599287</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1559267599287</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43112000" />
+    <option name="totallyTimeSpent" value="47877000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="0" width="1372" height="738" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28787878" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30151516" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4724026" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35447153" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.49512988" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.068292685" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40325204" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -237,7 +295,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3284553" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32954547" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.44552845" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3284553" />
       <window_info anchor="bottom" id="CMake" order="12" weight="0.49025974" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -277,6 +335,32 @@
     <MESSAGE value="add functional to group4" />
     <MESSAGE value="delete comments" />
     <option name="LAST_COMMIT_MESSAGE" value="delete comments" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/third_group/task1/MultiplyPolinom.h</url>
+          <line>66</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/third_group/task1/MultiplyPolinom.h</url>
+          <line>9</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/third_group/task1/MultiplyPolinom.h</url>
+          <line>85</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/third_group/task1/MultiplyPolinom.h</url>
+          <line>95</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lab2.3/UsersTable.cpp" />
@@ -434,13 +518,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/third_group/task1/MultiplyPolinom.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1293">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fourth_grup/Bracket.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5">
@@ -467,26 +544,6 @@
           <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="e#114#134#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first_group/lab1.1_4/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="739">
-          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fourth_grup/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -521,10 +578,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/first_group/lab1.1_4/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-33">
+          <caret line="102" column="39" selection-start-line="102" selection-start-column="39" selection-end-line="102" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fourth_grup/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/7/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1281">
+          <caret line="100" column="57" selection-start-line="100" selection-start-column="57" selection-end-line="100" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third_group/task1/MultiplyPolinom.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/third_group/task1/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+        <state relative-caret-position="285">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>

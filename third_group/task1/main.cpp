@@ -27,7 +27,7 @@ int main() {
     vector<int> c_decomposed = multiplicate(a_decomposed, b_decomposed);
     string c = compose(c_decomposed);
     erase_the_plus(c);
-    if (c.size() > 0) cout << c;
+    if (!c.empty()) cout << c;
     else cout << 0;
     return 0;
 }
