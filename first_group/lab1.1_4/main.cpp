@@ -55,7 +55,7 @@ int main() {
 
 // maze
     vector<state> r = solve_wide(start_state());
-    for (int i = 0; i < r.size()) {
+    for (int i = 0; i < r.size();) {
         cout << "Variant " << i + 1 << ":" << endl;
         show_state(r[i]);
         cout << endl;

@@ -8,10 +8,10 @@ void vectorManipulation(vector<int> vec);
 
 int main() {
     // vectorManipulation
-    cout << "VectorManipulation" << endl;
-    vector<int> list = {1, 1, 6, 7, 7, 7, 4, 9, 9};
-
-    vectorManipulation(list);
+//    cout << "VectorManipulation" << endl;
+//    vector<int> list = {1, 1, 6, 7, 7, 7, 4, 9, 9};
+//
+//    vectorManipulation(list);
 
 
     // Polynom
