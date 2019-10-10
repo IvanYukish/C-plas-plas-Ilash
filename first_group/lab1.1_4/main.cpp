@@ -25,6 +25,7 @@ void matrix_multiplication(double **pMas, const int Rows, const int Cols);
 int main() {
     cout << "is_palindrom - ";
     cout << is_palindrom("addhhh") << endl;
+
     cout << "prime number list - ";
     prime_number(32);
     cout << endl;
@@ -65,7 +66,6 @@ int main() {
 
 
     bool is_palindrom(string line) {
-
         int len = static_cast<unsigned int>(line.length());
         bool palindrom = true;
         for (int i = 0; i < len / 2; ++i) {

@@ -109,18 +109,14 @@ void sorting_a_two_dimensional_array_const(int ( &b )[size][size]) {
             b[n][i] = rand() % 1000;
         }
     }
-    for (int i = 0; i < size; ++i) {
-        for (int j = 0; j < size; ++j) {
-            c[j] = b[i][j];
-        }
-        selection_sort(size, c);
-        for (int k = 0; k < size; ++k) {
-            b[i][k] = c[k];
-        }
+    for (auto &i : b) {
+        selection_sort(size, i);
     }
-//    out.open("dani.txt", ios::app);
+
+
     for (int l = 0; l < size; ++l) {
         for (int m = 0; m < size; ++m) {
+
             cout << b[l][m] << "|";
         }
         cout << endl;

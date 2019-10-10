@@ -29,7 +29,7 @@ public:
         user_phone_book.insert(pair<string, string>(name, phone_number));
     }
 
-    bool find_life(const string &number) {
+    bool find_life(string number) {
         string life = "063 073 093";
         string num = number.substr(2, 3);
         int find_num = static_cast<int>(life.find(num));
@@ -49,8 +49,6 @@ public:
             }
         }
     }
-
-
 };
 
 

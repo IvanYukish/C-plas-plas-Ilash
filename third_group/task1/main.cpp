@@ -8,18 +8,18 @@ void vectorManipulation(vector<int> vec);
 
 int main() {
     // vectorManipulation
-//    cout << "VectorManipulation" << endl;
-//    vector<int> list = {1, 1, 6, 7, 7, 7, 4, 9, 9};
-//
-//    vectorManipulation(list);
+    cout << "VectorManipulation" << endl;
+    vector<int> list = {1, 1, 6, 7, 7, 7, 4, 9, 9};
+
+    vectorManipulation(list);
 
 
     // Polynom
     cout << endl << "Polynom" << endl;
     cout << "cin 2 Polinoms" << endl;
     string a, b;
-    vector<int> a_decomposed(11, 0);
-    vector<int> b_decomposed(11, 0);
+    vector<int> a_decomposed(11);
+    vector<int> b_decomposed(11);
     getline(cin, a);
     getline(cin, b);
     a_decomposed = decompose(a);
@@ -29,6 +29,8 @@ int main() {
     erase_the_plus(c);
     if (!c.empty()) cout << c;
     else cout << 0;
+
+
     return 0;
 }
 
@@ -55,12 +57,9 @@ void vectorManipulation(vector<int> vec) {
             vector1.clear();
         }
 //        mitkaBegin = mitkaEnd - single;
-
     }
     for (int f : vector2) {
         cout << f << "\t";  // 6  2  3  4  5
     }
     cout << endl << "mitkend - " << mitkaEnd - 1 << endl << mitkaBegin;
-
-
 }
